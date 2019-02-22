@@ -1,6 +1,7 @@
 # DrinklyNG
 
-You can see the result of our Angular version of DrinklyNG in action here :
+You can see the result of our Angular version of DrinklyNG in action here:
+
 https://womenintechallies.github.io/Intro-To-Angular/
 
 # WITA - Intro to Angular 2/2019
@@ -35,7 +36,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `ng build` to build the project. The build artifacts will be stored in the `docs` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
