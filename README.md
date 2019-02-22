@@ -1,5 +1,8 @@
 # DrinklyNG
 
+You can see the result of our Angular version of DrinklyNG in action here :
+https://womenintechallies.github.io/Intro-To-Angular/
+
 # WITA - Intro to Angular 2/2019
 
 In 2018, WITA did an Intro to React project called Drinkly ... see the result here:  https://susanwands.github.io/IntroToReact/
