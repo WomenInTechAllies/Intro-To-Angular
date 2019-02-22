@@ -1,0 +1,24 @@
+<div *ngIf="myDrink.strDrink">
+
+  <div class="recipe">
+
+    <div class="row">
+      <img class="col-sm-6" src="{{myDrink.strDrinkThumb}}" />
+      <div class="col-sm-6">
+        <div>
+          <button type="button" class="btn close-recipe" (click)="closeDrink()">Close</button>
+          <h2 class="title">{{myDrink.strDrink}}</h2>
+        </div>
+        <div>
+          <h3>Ingredients</h3>
+          <ul>
+            <li *ngFor="let item of ingredients">{{item.ingredient}}</li>
+
+          </ul>
+        </div>
+        <div>
+          <h3>Instructions</h3>
+          <p>{{myDrink.strInstructions}}</p>
+        </div>
+      </div>
+    </div>
