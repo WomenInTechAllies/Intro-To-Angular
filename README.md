@@ -1,6 +1,7 @@
 # DrinklyNG
 
-You can see the result of our Angular version of DrinklyNG in action here :
+You can see the result of our Angular version of DrinklyNG in action here:
+
 https://womenintechallies.github.io/Intro-To-Angular/
 
 # WITA - Intro to Angular 2/2019
